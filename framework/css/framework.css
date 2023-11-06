@@ -522,10 +522,6 @@ a:any-link:hover {
     background-color: #222 !important
 }
 
-#col2-body {
-   
-}
-
 h2,
 h3 {
     border-bottom: 1px solid #666;
@@ -534,7 +530,7 @@ h3 {
 
 p.cursive {
     font-family: 'Zeyada';
-    margin-top: -10px;
+    margin-top: 0;
     margin-bottom: 0;
     font-size: 60px;
 }
