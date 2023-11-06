@@ -33,8 +33,7 @@
 
     #col3-head,
     #col3-body {
-        right: 23px;
-        width: calc((100vw * .5) - 23px) !important
+        width: calc(100vw * .5) !important
     }
 }
 

@@ -16,15 +16,15 @@
 }
 
 html {
-    background-color: #fff;
-    color: #000;
+    background-color: #222;
+    color: #fff;
     margin: 0px;
     padding: 0px;
 }
 
 body {
-    background-color: #fff;
-    color: #000;
+    background-color: #222;
+    color: #fff;
     margin: 0px;
     padding: 0px;
 }
@@ -371,7 +371,7 @@ body {
 
 /* ----- AUTO-WIDTH  ----- */
 .w-auto {
-    width: calc(((100vw - 23px) * .5) - var(--sidebar-width) * .5) !important
+    width: calc((100vw * .5) - var(--sidebar-width) * .5) !important
 }
 
 /* ----- SIDEBAR  ----- */
@@ -445,7 +445,7 @@ span.material-symbols-outlined {
     font-family: 'Material Symbols Outlined';
     position: relative;
     top: -5px;
-    font-weight: 200 !important ;
+    font-weight: 200 !important;
 }
 
 /* ----- DETAILS SUMMARY  ----- */
@@ -538,3 +538,15 @@ img#israel {
     transform: rotate(45deg);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+a:any-link {
+    color: royalblue;
+    text-decoration: none;
+}
+
+a:any-link:hover {
+    text-decoration: 1px underline royalblue;
+    text-underline-offset: 2px;
+}
+
+#col2-body {padding-left: 20px; }
