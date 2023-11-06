@@ -16,14 +16,11 @@
 }
 
 html {
-    background-color: #222;
-    color: #fff;
     margin: 0px;
     padding: 0px;
 }
 
 body {
-    background-color: #222;
     color: #fff;
     margin: 0px;
     padding: 0px;
@@ -441,7 +438,7 @@ a:hover {
 /* ----- ICONS  ----- */
 span.material-symbols-outlined {
     vertical-align: middle;
-    color: currentColor;
+    color: #fff;
     font-family: 'Material Symbols Outlined';
     position: relative;
     top: -5px;
@@ -466,41 +463,6 @@ details>p>a {
     margin-left: 10px;
 }
 
-/* ----- DARK MODE  ----- */
-.dark-mode {
-    background-color: #222;
-    color: #eee;
-}
-
-.dark-mode * {
-    background-color: #222;
-    color: #eee;
-}
-
-.dark-mode col1-body {
-    background-color: #222;
-}
-
-.dark-mode table {
-    background-color: rgba(238, 238, 238, .1);
-}
-
-.dark-mode #col2-body a {
-    color: #66B3FF !important;
-}
-
-.dark-mode img {
-    background-color: rgba(250, 250, 250, .1)
-}
-
-.dark-mode figcaption {
-    background-color: rgba(250, 250, 250, .1)
-}
-
-.dark-mode em {
-    color: red;
-    background-color: transparent;
-}
 
 /* ----- HIDE SHOW  ----- */
 .hide {
@@ -509,24 +471,6 @@ details>p>a {
 
 .show {
     display: inline;
-}
-
-/* ----- SHADES  ----- */
-.shades-on {
-    filter: blur(6px) grayscale(1)
-}
-
-.shades-off {
-    filter: grayscale(0)
-}
-
-/* ----- BACKGROUND  ----- */
-.bg-light {
-    background-color: var(--white) !important
-}
-
-.bg-dark {
-    background-color: var(--black) !important
 }
 
 img#israel {
@@ -539,8 +483,13 @@ img#israel {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-a:any-link {
+#col1-body a:any-link {
     color: #fff;
+    text-decoration: none;
+}
+
+#col2-body a:any-link {
+    color: dodgerblue;
     text-decoration: none;
 }
 
@@ -550,11 +499,37 @@ a:any-link:hover {
     text-underline-offset: 2px;
 }
 
-#col2-body {padding-left: 20px; font-family: sans-serif; }
+#col2-body {
+    padding-left: 20px;
+    font-family: sans-serif;
+}
 
-.responsive {
-    width: 500px;
-    height: 500px;
-  }
+#col1-body a {
+    color: #fff;
+}
 
-#col1-body a {color: #fff;}
+#col1-head,
+#col2-head,
+#col3-head {
+    background-color: #222 !important
+}
+
+#col1-body {
+    background-color: #222 !important
+}
+
+#col2-body {
+    background-color: #333 !important;
+    padding-right: 20px;
+}
+
+h2,
+h3 {
+    border-bottom: 1px solid #666;
+    padding: 0 20px
+}
+
+p.cursive {
+    font-family: 'Zeyada';
+    font-size: 60px;
+}
