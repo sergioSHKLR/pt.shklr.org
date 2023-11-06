@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Educação Moral e Ética
 
 Estando juntos desde 2010, todo dia tentamos nos aperfeiçoar, na moralidade e intelectualidade. Frequentemente falhamos, com nós mesmos, um com o outro, com nossos amigos, e com nossas famílias.  
@@ -18,7 +19,7 @@ Mai & Sergio
 
 ### 💧 doutrina.org
 
-Criamos uma plataforma inédita ...
+Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas.  
 
 ### 5️⃣ Cinco
 
@@ -48,10 +49,12 @@ Para impressão (11'x17') e enquadramento.
 
 ![poster](./framework/protector.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
+[mostrar](./framework/protector.png){:target="ext"} | 
 [baixar](https://drive.google.com/file/d/1Q2Pz7zSzc-UKyLZbi2Vz1LYPGcOYU8P5/view?usp=drive_link){:target="ext"}
 
 ![poster](./framework/anguish.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
+[mostrar](./framework/anguish.png){:target="ext"} | 
 [baixar](https://drive.google.com/file/d/1r4VQzQIjmlZVuNjdjPH-i0RdoMKX4ZRW/view?usp=drive_link){:target="ext"}
 
 ### 💭 Mensagens
@@ -80,4 +83,4 @@ Pensamentos inspirados, apresentados aleatoriamente, sem ordem cronológica ou d
 
 ### Contato
 
-Contate-nos clicando [aqui](mailto:doutrina@shklr.org).
+Contate-nos clicando [aqui](https://docs.google.com/forms/d/e/1FAIpQLSc7ZRs6usX8DhTixnerMX68QtRT0o-bz9PmTtn8OKK0z2vhsw/viewform?usp=sharing){:target="ext"}.
