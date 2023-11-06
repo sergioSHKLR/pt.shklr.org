@@ -531,5 +531,6 @@ h3 {
 
 p.cursive {
     font-family: 'Zeyada';
+    margin-top: -20px;
     font-size: 60px;
 }
