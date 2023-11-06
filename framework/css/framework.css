@@ -3,7 +3,7 @@
     --head-height: 50px;
     --white: #fff;
     --black: #000;
-    --grey: #ccc;
+    --grey: #666;
 }
 
 * {
@@ -540,13 +540,19 @@ img#israel {
 }
 
 a:any-link {
-    color: royalblue;
+    color: #fff;
     text-decoration: none;
 }
 
 a:any-link:hover {
-    text-decoration: 1px underline royalblue;
+    color: dodgerblue;
+    text-decoration: 1px underline dodgerblue;
     text-underline-offset: 2px;
 }
 
-#col2-body {padding-left: 20px; }
+#col2-body {padding-left: 20px; font-family: sans-serif; }
+
+.responsive {
+    width: 500px;
+    height: 500px;
+  }
