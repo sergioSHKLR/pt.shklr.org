@@ -556,3 +556,5 @@ a:any-link:hover {
     width: 500px;
     height: 500px;
   }
+
+#col1-body a {color: #fff;}
