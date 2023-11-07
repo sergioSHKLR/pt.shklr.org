@@ -2,6 +2,12 @@
 layout: default
 ---
 
+*[LDE]: O Livro dos Espíritos
+*[LDM]: O Livro dos Médiuns
+*[ESE]: O Evangelho segundo o Espiritismo
+*[CEU]: O Céu e o Inferno
+*[GEN]: A Gênese
+
 # Educação Moral e Ética
 
 Estando juntos desde 2010, todo dia tentamos nos aperfeiçoar, na moralidade e intelectualidade. Frequentemente falhamos, com nós mesmos, um com o outro, com nossos amigos, e com nossas famílias.  
@@ -35,13 +41,21 @@ Você pode fazer highlights, anotações, ou comentar nas dos outros.
 
 Caso queira, também temos a coletânea completa em um único PDF na página Obras básicas.
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=MONTH&showPrint=0&showCalendars=0&showTz=0&showNav=0&src=Y2c5NXRnZjlhcmw0dWhuZWNrNzJiZjdmbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%233F51B5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+
 ### 🙏🏼 Livro de Preces
 
-Livro de Preces em [PDF](./framework/pdf/preces.pdf){:target="ext"} (Capítulo 28 de O Evangelho segundo o Espiritismo)
+Livro de Preces (Capítulo 28 de O Evangelho segundo o Espiritismo)
+
+[mostrar](./framework/pdf/preces.pdf){:target="ext"} |
+[baixar](./framework/pdf/preces.pdf){:target="_blank_"}
 
 ### 📚 Obras Básicas
 
-Coletânea completa em [PDF](./framework/pdf/obras-básicas.pdf){:target="ext"} (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
+Coletânea completa (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
+
+[mostrar](./framework/pdf/obras-básicas.pdf){:target="ext"} |
+[baixar](./framework/pdf/obras-básicas.pdf){:target="_blank_"}
 
 ### 🖼️ Posters
 
@@ -50,12 +64,12 @@ Para impressão (11'x17') e enquadramento.
 ![poster](./framework/protector.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
 [mostrar](./framework/protector.png){:target="ext"} | 
-[baixar](./framework/pdf/protector-portrait.pdf){:target="ext"}
+[baixar](./framework/pdf/protector-portrait.pdf){:target="_blank_"}
 
 ![poster](./framework/anguish.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
 [mostrar](./framework/anguish.png){:target="ext"} | 
-[baixar](./framework/pdf/anguish-portrait.pdf){:target="ext"}
+[baixar](./framework/pdf/anguish-portrait.pdf){:target="_blank_"}
 
 ### 💭 Mensagens
 
