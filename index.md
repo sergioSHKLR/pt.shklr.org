@@ -37,11 +37,11 @@ Caso queira, também temos a coletânea completa em um único PDF na página Obr
 
 ### 🙏🏼 Livro de Preces
 
-Livro de Preces em [PDF](https://drive.google.com/file/d/1teyjAtnyT-w4Plt_gfSiEKK9YkKVYIoE/view?usp=drive_link){:target="ext"} (Capítulo 28 de O Evangelho segundo o Espiritismo)
+Livro de Preces em [PDF](./framework/pdf/preces.pdf){:target="ext"} (Capítulo 28 de O Evangelho segundo o Espiritismo)
 
 ### 📚 Obras Básicas
 
-Coletânea completa em [PDF](https://drive.google.com/file/d/11F7OaOyFR4SwgyoaO2Jl9wHC3MuOnZk6/view?usp=sharing){:target="ext"} (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
+Coletânea completa em [PDF](./framework/pdf/obras-básicas.pdf){:target="ext"} (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
 
 ### 🖼️ Posters
 
@@ -50,12 +50,12 @@ Para impressão (11'x17') e enquadramento.
 ![poster](./framework/protector.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
 [mostrar](./framework/protector.png){:target="ext"} | 
-[baixar](https://drive.google.com/file/d/1Q2Pz7zSzc-UKyLZbi2Vz1LYPGcOYU8P5/view?usp=drive_link){:target="ext"}
+[baixar](./framework/pdf/protector-portrait.pdf){:target="ext"}
 
 ![poster](./framework/anguish.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
 [mostrar](./framework/anguish.png){:target="ext"} | 
-[baixar](https://drive.google.com/file/d/1r4VQzQIjmlZVuNjdjPH-i0RdoMKX4ZRW/view?usp=drive_link){:target="ext"}
+[baixar](./framework/pdf/anguish-portrait.pdf){:target="ext"}
 
 ### 💭 Mensagens
 
