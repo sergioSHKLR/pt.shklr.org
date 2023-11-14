@@ -47,12 +47,16 @@ Caso queira, também temos a coletânea completa em um único PDF na página Obr
 
 Livro de Preces (Capítulo 28 de O Evangelho segundo o Espiritismo)
 
+![poster](./framework/preces.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
+
 [mostrar](./framework/pdf/preces.pdf){:target="ext"} |
 [baixar](./framework/pdf/preces.pdf){:target="_blank_"}
 
 ### 📚 Obras Básicas
 
 Coletânea completa (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
+
+![poster](./framework/obras-basicas.png){:style="max-width: 50%; height: auto; overflow: hidden; "}  
 
 [mostrar](./framework/pdf/obras-básicas.pdf){:target="ext"} |
 [baixar](./framework/pdf/obras-básicas.pdf){:target="_blank_"}
