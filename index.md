@@ -8,7 +8,7 @@ layout: default
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
-# Educação Moral e Ética
+# <span class="emoji"> </span> Educação Moral e Ética
 
 Estando juntos desde 2010, todo dia tentamos nos aperfeiçoar, na moralidade e intelectualidade. Frequentemente falhamos, com nós mesmos, um com o outro, com nossos amigos, e com nossas famílias.  
 
@@ -16,18 +16,27 @@ Entretanto, tentamos aprender com nossos erros e seguimos em frente, aconselhado
 
 Por favor, use e compartilhe de nossos projetos educacionais com outros que pensam de maneira similar.  
 
-Deus sempre lhe abençoa.  
+<p>&nbsp;</p>
 
-Mai & Sergio
-{:class="cursive"}
+<div style="text-align: right; margin-right: 15px;">
+<p style="font-family: 'Inter', sans;"><span class="emoji">🙏🏼</span> Confiem em Deus</p>
+
+<p style="font-family: 'Zeyada', cursive; font-size: 44px">Mai & Sergio</p>
+
+<img src="./images/us-round.jpg" width="200" height="200" alt="foto do casal" style="all: unset; background-color: transparent;  width: 200px; overflow:clip !important">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
 
 ## Projetos
 
-### 💧 doutrina.org
+### <span class="emoji">💧</span> doutrina.org
 
-Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas.  
+Com admiração em outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
-### 5️⃣ Cinco
+### <span class="emoji">5️⃣</span> Cinco
 
 Ler todas as obras básicas da doutrina Espírita em apenas 1 ano?  
 
@@ -43,7 +52,7 @@ Caso queira, também temos a coletânea completa em um único PDF na página Obr
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=MONTH&showPrint=0&showCalendars=0&showTz=0&showNav=0&src=Y2c5NXRnZjlhcmw0dWhuZWNrNzJiZjdmbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%233F51B5" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 
-### 🙏🏼 Livro de Preces
+### <span class="emoji">🙏🏼</span> Livro de Preces
 
 Livro de Preces (Capítulo 28 de O Evangelho segundo o Espiritismo)
 
@@ -52,7 +61,7 @@ Livro de Preces (Capítulo 28 de O Evangelho segundo o Espiritismo)
 [mostrar](./framework/pdf/preces.pdf){:target="ext"} |
 [baixar](./framework/pdf/preces.pdf){:target="_blank_"}
 
-### 📚 Obras Básicas
+### <span class="emoji">📚</span> Obras Básicas
 
 Coletânea completa (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo colaborativo.
 
@@ -61,7 +70,7 @@ Coletânea completa (LDE+LDM+ESE+CEU+GEN) para pesquisa, anotações, e estudo c
 [mostrar](./framework/pdf/obras-básicas.pdf){:target="ext"} |
 [baixar](./framework/pdf/obras-básicas.pdf){:target="_blank_"}
 
-### 🖼️ Posters
+### <span class="emoji">🖼️</span> Posters
 
 Para impressão (11'x17') e enquadramento.  
 
@@ -75,7 +84,7 @@ Para impressão (11'x17') e enquadramento.
 [mostrar](./framework/anguish.png){:target="ext"} | 
 [baixar](./framework/pdf/anguish-portrait.pdf){:target="_blank_"}
 
-### 💭 Mensagens
+### <span class="emoji">💭</span> Mensagens
 
 Pensamentos inspirados, apresentados aleatoriamente, sem ordem cronológica ou de importância.  
 
@@ -95,9 +104,33 @@ Pensamentos inspirados, apresentados aleatoriamente, sem ordem cronológica ou d
 
 ## Detalhes
 
-### 📋 Info
+### <span class="emoji">📋</span> Info
 
-### ⚖️ Legal
+### <span class="emoji">⚖️</span> Legal
+
+## Monetário
+
+Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+
+## Direitos
+
+Não exercemos direitos sobre as obras originais (LDE, LDM, ESE, CEU, GEN, traduções da Bíblia, vídeos bíblicos, etc), suas traduções, ou derivativos que pertencem aos seus respectivos proprietários e/ou herdeiros.
+
+## Endossos
+
+O nome e/ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços e/ou produtos.
+
+## Uso permitido
+
+Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998. Reproduzimos abaixo alguns trechos pertinentes.
+
+- Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+
+- Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+
+    - I – a reprodução
+
+    - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 ### Contato
 
